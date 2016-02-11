@@ -4,7 +4,7 @@ AUTHOR = 'Free Agent'
 SITENAME = 'Finalmente ci sposiamo'
 SITETITLE = 'Save the date: 28 Maggio 2016'
 SITESUBTITLE = "Sara ha detto si!"
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://www.marcoandsara.info'
 
 
 THEME = 'free-agent'
