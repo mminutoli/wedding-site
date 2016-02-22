@@ -291,20 +291,28 @@
 					</div>
 					<div class="row control-group">
 						<div class="form-group col-xs-12 floating-label-form-group controls">
-							<label>Email Address</label>
-							<input type="email" name="_replyto" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+							<label>Indirizzo Email</label>
+							<input type="email" name="_replyto" class="form-control" placeholder="Tuo indirizzo email" id="email" required data-validation-required-message="Inserisci il tuo indirizzo email.">
+
+							<p class="help-block text-danger"></p>
+						</div>
+					</div>
+					<div class="row control-group">
+						<div class="form-group col-xs-12 floating-label-form-group controls">
+							<label>Oggetto</label>
+					                <input type="subject"  name="_subject" class="form-control" placeholder="Oggetto" id="email" required data-validation-required-message="Inserisci un oggetto">
+
 							<p class="help-block text-danger"></p>
 						</div>
 					</div>
 					<div>
                                           <input type="hidden" name="_cc" value="sara.costanza86@gmail.com" />
-					  <input type="hidden"  name="_subject" value="New submission!">
 					  <input type="text" name="_gotcha" style="display:none" />
 					</div>
 					<div class="row control-group">
 						<div class="form-group col-xs-12 floating-label-form-group controls">
-							<label>Message</label>
-							<textarea rows="5" name="message" class="form-control" placeholder="Say Hi or something" id="message" required data-validation-required-message="Please enter a message."></textarea>
+							<label>Messaggio</label>
+							<textarea rows="5" name="message" class="form-control" placeholder="Scrivici qualcosa" id="message" required data-validation-required-message="Inserisci un messaggio."></textarea>
 							<p class="help-block text-danger"></p>
 						</div>
 					</div>
@@ -312,7 +320,7 @@
 					<div id="success"></div>
 					<div class="row">
 						<div class="form-group col-xs-12">
-							<button type="submit" class="btn btn-success btn-lg">Send</button>
+							<button type="submit" class="btn btn-success btn-lg">Invia</button>
 						</div>
 					</div>
 				</form>
