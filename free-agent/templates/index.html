@@ -102,58 +102,64 @@
 {% endblock %}
 
 {% block contact %}
-	<!-- Contact Section -->
-	<section id="contact">
-	    <div class="container">
-	        <div class="row">
-	            <div class="col-lg-12 text-center">
-	                <h2>Contact Us</h2>
-	                <hr class="star-primary">
-	            </div>
-	        </div>
-	        <div class="row">
-	            <div class="col-lg-8 col-lg-offset-2">
-	                <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
-	                <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-	                <form  name="sentMessage" id="contactForm" novalidate>
-						{% for field in CONTACT_FIELDS %}
-							<div class="row control-group">
-							    <div class="form-group col-xs-12 floating-label-form-group controls">
+<!-- Contact Section -->
+<section id="contact">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2>Contattaci</h2>
+				<hr class="star-primary">
+			</div>
+		</div>
+		<div class="row">
+		  <div class="col-lg-8 col-lg-offset-2">
+				<form  action="http://formspree.io/mminutoli@gmail.com" method="POST" name="sentMessage" id="contactForm">
+					<div class="row control-group">
+						<div class="form-group col-xs-12 floating-label-form-group controls">
+							<label>Nome</label>
+							<input type="text" name="name" class="form-control" placeholder="Nome" id="name" required data-validation-required-message="Please enter your name.">
+							<p class="help-block text-danger"></p>
+						</div>
+					</div>
+					<div class="row control-group">
+						<div class="form-group col-xs-12 floating-label-form-group controls">
+							<label>Indirizzo Email</label>
+							<input type="email" name="_replyto" class="form-control" placeholder="Tuo indirizzo email" id="email" required data-validation-required-message="Inserisci il tuo indirizzo email.">
 
-								{% if field[1] == 'textarea' %}
+							<p class="help-block text-danger"></p>
+						</div>
+					</div>
+					<div class="row control-group">
+						<div class="form-group col-xs-12 floating-label-form-group controls">
+							<label>Oggetto</label>
+					                <input type="subject"  name="_subject" class="form-control" placeholder="Oggetto" id="email" required data-validation-required-message="Inserisci un oggetto">
 
-							        <label>{{field[0]}}</label>
-							        <textarea rows="5" class="form-control" placeholder="{{field[0]}}" id="{{field[2]}}" required data-validation-required-message="{{field[3]}}"></textarea>
-							        <p class="help-block text-danger"></p>
-
-								{% else %}
-
-							        <label>{{field[0]}}</label>
-							        <input type="{{field[1]}}" class="form-control" placeholder="{{field[0]}}" id="{{field[2]}}" required data-validation-required-message="{{field[3]}}">
-							        <p class="help-block text-danger"></p>
-
-								{% endif %}
-
-
-
-							    </div>
-							</div>
-
-						{% endfor %}
-
-
-	                    <br>
-	                    <div id="success"></div>
-	                    <div class="row">
-	                        <div class="form-group col-xs-12">
-	                            <button type="submit" class="btn btn-success btn-lg">Send</button>
-	                        </div>
-	                    </div>
-	                </form>
-	            </div>
-	        </div>
-	    </div>
-	</section>
+							<p class="help-block text-danger"></p>
+						</div>
+					</div>
+					<div>
+                                          <input type="hidden" name="_cc" value="sara.costanza86@gmail.com" />
+					  <input type="text" name="_gotcha" style="display:none" />
+					</div>
+					<div class="row control-group">
+						<div class="form-group col-xs-12 floating-label-form-group controls">
+							<label>Messaggio</label>
+							<textarea rows="5" name="message" class="form-control" placeholder="Scrivici qualcosa" id="message" required data-validation-required-message="Inserisci un messaggio."></textarea>
+							<p class="help-block text-danger"></p>
+						</div>
+					</div>
+					<br>
+					<div id="success"></div>
+					<div class="row">
+						<div class="form-group col-xs-12">
+							<button type="submit" class="btn btn-success btn-lg">Invia</button>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
 {% endblock %}
 <!-- end contact section -->
 

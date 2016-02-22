@@ -9,13 +9,15 @@ SITEURL = 'http://www.marcoandsara.info'
 
 THEME = 'free-agent'
 THEME_STATIC_DIR = 'theme'
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/CNAME']
 PATH = 'content'
 #add images back in above
 # EXTRA_PATH_METADATA = {
 #     'static/images/portfolio': {'path': 'images/portfolio'},
 #     }
 TIMEZONE = 'Europe/Rome'
+
+GOOGLE_ANALYTICS="UA-42899189-3"
 
 DEFAULT_LANG = 'it'
 BOOTSTRAP_FILE = 'bootstrap.min.css'
@@ -29,9 +31,11 @@ SCRIPTS = [
 	'classie.js',
 	'cbpAnimatedHeader.js',
 	'jqBootstrapValidation.js',
-	'contact_me.js',
 	'freeagent.js'
 ]
+
+RELATIVE_URLS = False
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

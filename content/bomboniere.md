@@ -1,23 +1,27 @@
-Title: Le bomboniere
+Title: New Hope
 Date: 2010-12-03
 image: 15731927226_00a1ad1af8_k.jpg
 tag: portfolio
 
-In casa capita spesso di trovarsi tra le mani una bomboniera e naturalmente ci
-torna in mente il matrimonio nel quale ci era stata donata. È bello in
-quell’attimo cogliere l’occasione di rivivere la gioia di un quel giorno.
+Abbiamo conosciuto la cooperativa newhope per caso. Eravamo alla
+ricerca di una realtà vicina che ci permettesse di unire alla gioia di
+scegliere una bomboniera che ci rappresentasse la felicità di sapere
+che con quell’acquisto avremmo potuto soprattutto aiutare qualcuno. E
+così abbiamo conosciuto le ragazze della cooperativa NewHope.
 
-Per questa ragione, per il nostro matrimonio, abbiamo deciso di sceglie un
-oggetto che fosse la giusta immagine di ciò che vogliamo trasmettere...per
-sapere cos’è dovrete aspettare, è una sorpresa!!!
+<a href="http://www.coop-newhope.it/">NewHope</a> è un laboratorio di
+sartoria etnica per la formazione e l'addestramento al lavoro pensato
+e realizzato dal centro di accoglienza Casa Rut di Caserta a favore di
+giovani donne immigrate, sole e con figli, in situazione di
+difficoltà. NewHope, che significa “speranza nuova”, dà a giovani
+donne immigrate che vogliono integrarsi nel territorio, la possibilità
+di offrire, attraverso il loro lavoro, le abilità e la creatività che
+contraddistinguono le loro culture.
 
-Ma di questa bomboniera quello che veramente vorremmo restasse nei cuori di
-tutto non è solo il ricordo del matrimonio ma anche la grande forza che c’è
-nelle persone che ci hanno composto le nostre bomboniere. Infatti per questo
-simbolo ci siamo affidati alle eccezionali mani delle ragazze di <a
-href="http://www.coop-newhope.it/">NewHope</a> che con grande forza hanno
-cambiato la loro vita e fatto fiorire una idea che noi sposiamo in pieno.
-
-I loro lavori ci sono piaciuti da subito, sono pieni di amore e di cura. Loro
-per noi sono l’esempio di come la determinazione e la fede possono veramente
-cambiare tutto.
+E grazie a loro abbiamo trovato l’ispirazione per le nostre
+bomboniere... per sapere cos’è dovrete aspettare, è una sorpresa!!!
+Ma vi possiamo dire che abbiamo conosciuto delle ragazze che con
+grande forza hanno cambiato la loro vita e fatto fiorire una idea che
+noi sposiamo in pieno. I loro lavori ci sono piaciuti da subito, sono
+pieni di amore e di cura. Loro per noi sono l’esempio di come la
+determinazione e la fede possono veramente cambiare il mondo.
