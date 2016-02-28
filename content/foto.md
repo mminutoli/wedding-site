@@ -1,6 +1,6 @@
 Title: Una Nostra Foto
 Date: 2016-02-20
-image: 15731927226_00a1ad1af8_k.jpg
+image: foto.jpg
 tag: portfolio
 
 Se c’è una cosa che amiamo tanto sono proprio le foto. Durante il campo scout

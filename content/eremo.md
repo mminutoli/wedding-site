@@ -1,5 +1,5 @@
 Title: L'eremo di San Vitaliano
-image: 15731927226_00a1ad1af8_k.jpg
+image: eremo-1.jpg
 date:
 tag: portfolio
 

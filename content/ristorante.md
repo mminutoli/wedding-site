@@ -1,6 +1,6 @@
 Title: I festeggiamenti
 Date: 2010-12-03
-image: 15731927226_00a1ad1af8_k.jpg
+image: festeggiamenti-1.jpg
 tag: portfolio
 
 A seguire non c’è nulla di meglio che festeggiare tutti insieme. Per il
