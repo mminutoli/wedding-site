@@ -1,11 +1,11 @@
 Title: Cooperativa Marco Polo
-Date: 2016-02-20
-image: 15731927226_00a1ad1af8_k.jpg
+Date:
+image: castello.jpg
 tag: portfolio
 
 Durante il ricevimento i più piccoli saranno in compagnia di NOME1 e NOME2.
 Nome1 e Nome2 sono due simpaticissimi ragazzi che sono cresciuti a pane e
-scout nel Caserta N.  Insieme hanno fondato la Cooperativa Marco Polo
+scout nel Caserta 2.  Insieme hanno fondato la Cooperativa Marco Polo
 trasformando in lavoro le esperienze vissute grazie all’educazione scout, e l’
 impegno civico sul territorio.  Con la loro passione e il loro impegno
 quotidiano sono testimonianza di come i giovani siano la speranza e il futuro

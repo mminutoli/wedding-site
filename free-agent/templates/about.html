@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Timeline</h2>
+        <h2>La nostra Storia</h2>
         <hr class="star-light">
       </div>
     </div>
@@ -13,7 +13,7 @@
         	{% for article in articles_page.object_list %}
                 {% if article.tag == "timeline" %}
       <div class="cd-timeline-block">
-	<div class="cd-timeline-img cd-picture" style="background-image: url({{ SITEURL }}/images/portfolio/{{article.image}}); background-size: 60px, 60px">
+	<div class="cd-timeline-img cd-picture" style="background-image: url({{ SITEURL }}/images/{{article.image}}); background-size: 60px, 60px">
 	  <!-- <img src="{{ SITEURL }}/images/portfolio/{{article.image}}" alt="Picture"> -->
 	</div> <!-- cd-timeline-img -->
 

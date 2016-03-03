@@ -1,6 +1,6 @@
 Title: New Hope
-Date: 2010-12-03
-image: 15731927226_00a1ad1af8_k.jpg
+Date:
+image: mani.jpg
 tag: portfolio
 
 Abbiamo conosciuto la cooperativa newhope per caso. Eravamo alla

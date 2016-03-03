@@ -1,6 +1,6 @@
 Title: La "'nocca" per l'auto
-Date: 2016-02-20
-image: 15731927226_00a1ad1af8_k.jpg
+Date:
+image: nocca.jpg
 tag: portfolio
 
 È importante arrivare preparati e con una bella 'nocca sulla macchina.  Non deve
