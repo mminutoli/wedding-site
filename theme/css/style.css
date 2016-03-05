@@ -195,12 +195,12 @@ Main components
   clear: both;
 }
 .cd-timeline-content h2 {
+  font-size: 20px;
   color: #303e49;
 }
 .cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   color: black;
   font-size: 13px;
-  font-size: 0.8125rem;
 }
 .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   display: inline-block;
@@ -216,6 +216,11 @@ Main components
   color: white;
   border-radius: 0.25em;
 }
+
+.cd-timeline-content li {
+    color: black;
+}
+
 .no-touch .cd-timeline-content .cd-read-more:hover {
   background-color: #bac4cb;
 }
