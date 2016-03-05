@@ -10,7 +10,7 @@ suoceri.
 
 Sara conoscerà le nonne e la differenze linguistiche tra la Sicilia e
 il continente.  Nonostante gli svariati tentativi, Sara imparerà a sue
-spese che a casa della nanno un "No grazie sono sazia" significa
+spese che a casa della nonna un "No grazie sono sazia" significa
 "Grazie nonna solo un'altra melenzana ripiena prima del dolce".
 
 Bilancio a fine vacanza positivo (+10kg).

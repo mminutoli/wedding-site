@@ -6,7 +6,7 @@ tag: timeline
 
 Sara propone di andare in vacanza, possibilmente al mare.  Marco, che
 ha la pelle delicata, gioca la carta disperata della vacanza
-all'estero e riesce a convincere sara a fare l'Austria on the road.
+all'estero e riesce a convincere Sara a fare l'Austria on the road.
 
-Sarà la prima di una serie di volte in cui Sara si troverà in un posto
-in cui non parla una parola della lingua locale per colpa di Marco.
+Sarà la prima volte in cui Sara si troverà in un posto in cui non
+parla una parola della lingua locale per colpa di Marco.

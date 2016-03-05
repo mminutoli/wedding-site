@@ -10,7 +10,7 @@ seria e sfodera il miglior abbigliamento della collezione Suor Germana
 2008/2009.
 
 Fortunatamente viene intercettata sull'uscio di casa da Assunta che
-pronuncerà la leggendaria frase:
+pronuncia la leggendaria frase:
 
-"Sarù a mammma... ma com t si vistut...e fagli vedere un po' di carne
+"Sarù a mammma... ma com t si vistut??? E fagli vedere un po' di carne
 a sto povero ragazzo..."

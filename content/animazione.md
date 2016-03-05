@@ -3,8 +3,8 @@ Date:
 image: castello.jpg
 tag: portfolio
 
-Durante il ricevimento i più piccoli saranno in compagnia di NOME1 e NOME2.
-Nome1 e Nome2 sono due simpaticissimi ragazzi che sono cresciuti a pane e
+Durante il ricevimento i più piccoli saranno in compagnia di Marco e Manuel.
+Marco e Manuel sono due simpaticissimi ragazzi che sono cresciuti a pane e
 scout nel Caserta 2.  Insieme hanno fondato la Cooperativa Marco Polo
 trasformando in lavoro le esperienze vissute grazie all’educazione scout, e l’
 impegno civico sul territorio.  Con la loro passione e il loro impegno
