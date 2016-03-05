@@ -7,7 +7,7 @@ tag: timeline
 Marco parte a Dicembre 2014 per Richland.  Passa 4 mesi da solo e ha
 tanto tempo per pensare ai grandi misteri della vita e dell'universo.
 
-Dopo tutto il suo meditare ancera non sa dare un nome a:
+Dopo tutto il suo meditare ancora non sa dare un nome a:
 
   - i pirulli di plastica alle estremità dei lacci delle scarpe;
   - gli scarti di quando temperi la matita;

@@ -9,5 +9,5 @@ su teoria dei grafi e piu' precisamente sul teorema de matrimoni.
 
 La ragazza pare avere le idee chiare...
 
-Da li a poco si trasferirá a Milano per proseguire con la
+Di li a poco si trasferirá a Milano per proseguire con la
 specialistica.

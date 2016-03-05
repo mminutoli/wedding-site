@@ -5,7 +5,7 @@ image: marcoandsara.jpg
 tag: timeline
 
 Dopo la laurea, Marco fa un colloquio con un laboratorio negli USA e
-da li a qualche mese partirà per andare in mezzo al niente ma
+di li a qualche mese partirà per andare in mezzo al niente ma
 dall`altro lato del mondo.
 
 I due quindi decidono di fare una vacanza insieme prima della partenza

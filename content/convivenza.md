@@ -8,6 +8,6 @@ Daniele, il coinquilino di Marco, compra casa e i due piccioncini
 decidono che è inutile ritardare l'inevitabile e vanno a vivere
 insieme.
 
-Da li a poco, Marco scoprirà che Sara spreme il tubetto di
+In poco tempo, Marco scoprirà che Sara spreme il tubetto di
 dentrifricio dal centro e cercherà di tirare su il prezzo della
 trattativa con Rosario.
