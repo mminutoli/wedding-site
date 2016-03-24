@@ -1,6 +1,6 @@
 Title: Cooperativa Marco Polo
 Date:
-image: castello.jpg
+image: cooperativa.jpg
 tag: portfolio
 
 Durante il ricevimento i più piccoli saranno in compagnia di Marco e Manuel.
